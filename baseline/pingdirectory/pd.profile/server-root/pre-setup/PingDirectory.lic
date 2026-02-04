@@ -1,0 +1,12 @@
+ID=00937520
+Product=PingDirectory
+Version=11.0.0.0
+EnforcementType=3
+Tier=Subscription
+IssueDate=2023-10-04
+ExpirationDate=2026-10-31
+GracePeriod=1
+DeploymentMethod=Traditional
+Organization=TSB BANK PLC (Official)
+SignCode=FF03
+Signature=302C02147D49753A7AA553FEA72EB6C6849857903300CC4E02142D712A77949C18B54176C74F29D8EEBB6BC0C08D
